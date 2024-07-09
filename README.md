@@ -1,2 +1,7 @@
-# nextjs-dashboard
-A new Nextjs project to update my skills with latest Nextjs version
+## A new project to update my Nextjs skill with the latest version
+
+## Next.js App Router Course - Starter
+
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
